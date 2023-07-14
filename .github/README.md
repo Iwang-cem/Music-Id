@@ -1,23 +1,29 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<p align="center">
+   
+   <a href="https://github.com/Iwang-cem/Iwang-bot">
+      <img src="https://telegra.ph//file/b0e85f92ab4f5f60812b2.jpg" alt="Iwang", height="300px",width="300px">
+   </a>
+   <br>
+   <b>Iwang UserBot</b><br>
+   <i>The Awaited Bot</i>
+</p>
+ 
+## New Updated Repo is [Here](https://github.com/Iwang-cem/Iwang-bot).
+   
+# [Iwang-Bot](https://t.me/cemarasupport) userbot
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+The Most Powerful Telegram Userbot.
+This Userbot is Safe to use in Your Telegram Account.
+It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
-
-
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
-
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Heroku / Okteto / Railway
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-
+# ANU ANU
+  [![](https://img.shields.io/badge/Iwang-v0.7-darkgreen)](#) 
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+  
+ [![Sparkline](https://camo.githubusercontent.com/1f9e75894c57ea7e8d4f6410c3051be52a5a01645ff9ad112afa693c93aadf5e/68747470733a2f2f73746172732e6d6564762e696f2f6465706c6f797068702f6465706c6f7965722e737667)
+ [![Sparkline](https://camo.githubusercontent.com/1f9e75894c57ea7e8d4f6410c3051be52a5a01645ff9ad112afa693c93aadf5e/68747470733a2f2f73746172732e6d65647#badge&logo=Honda"></a>
+   
+##### Deploy
 ## 🖇 Generating Pyrogram String Session
 
 <p>
@@ -30,30 +36,34 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
-# 🏷 Support / Assistance
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
-
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
-
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **YukkiMusicBot** better!
-# 📑 Acknowledgement / Credits
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+### API ID AND API HASH 
+ŦEŁEGŘλM 
+𝙰𝙿𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
+FROM 
+ ⤵
+   </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/via_WEBSITE-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
 
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+###
+
+#### SAFE TO USE 😌
+
+# CONFIGS 
+
+
+
+#important 
+API_ID [+] - YOUR API_ID 
+API_HASH [+] - YOUR API_HASH 
+STRING_SESSION [+] - STRING SESSION 
+
+
+# SUPPORT 
+
+<a href="https://t.me/cemarastore99" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/cemarasupport" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+# DONASI ANUAN
+
+[![](https://img.shields.io/badge/DANA-SupraBapak-white?logo=DANADompetDigital&logoColor=white&labelColor=blue)](https://link.dana.id/qr/l29594fc)
